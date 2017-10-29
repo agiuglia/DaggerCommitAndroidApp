@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Dagger Commit Watcher</string>
+    <string name="dagger_repository_path">https://api.github.com/repos/google/dagger/commits</string>
+    <string name="master_branch">master</string>
+
+    <string name="error_occurred_text">An Error Occurred</string>
+    <string name="commit_hash_title_text">Commit: </string>
 </resources>
